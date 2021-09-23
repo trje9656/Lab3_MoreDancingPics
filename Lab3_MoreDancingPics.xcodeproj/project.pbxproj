@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8F69615726E98E3E00AF3EC5 /* Lab1_DancingPics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lab1_DancingPics.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F69615726E98E3E00AF3EC5 /* Lab3_MoreDancingPics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lab3_MoreDancingPics.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F69615A26E98E3E00AF3EC5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8F69615C26E98E3E00AF3EC5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		8F69615E26E98E3E00AF3EC5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		8F69615826E98E3E00AF3EC5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8F69615726E98E3E00AF3EC5 /* Lab1_DancingPics.app */,
+				8F69615726E98E3E00AF3EC5 /* Lab3_MoreDancingPics.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8F69615626E98E3E00AF3EC5 /* Lab1_DancingPics */ = {
+		8F69615626E98E3E00AF3EC5 /* Lab3_MoreDancingPics */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8F69616B26E98E3F00AF3EC5 /* Build configuration list for PBXNativeTarget "Lab1_DancingPics" */;
+			buildConfigurationList = 8F69616B26E98E3F00AF3EC5 /* Build configuration list for PBXNativeTarget "Lab3_MoreDancingPics" */;
 			buildPhases = (
 				8F69615326E98E3E00AF3EC5 /* Sources */,
 				8F69615426E98E3E00AF3EC5 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Lab1_DancingPics;
+			name = Lab3_MoreDancingPics;
 			productName = Lab1_DancingPics;
-			productReference = 8F69615726E98E3E00AF3EC5 /* Lab1_DancingPics.app */;
+			productReference = 8F69615726E98E3E00AF3EC5 /* Lab3_MoreDancingPics.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8F69615226E98E3E00AF3EC5 /* Build configuration list for PBXProject "Lab1_DancingPics" */;
+			buildConfigurationList = 8F69615226E98E3E00AF3EC5 /* Build configuration list for PBXProject "Lab3_MoreDancingPics" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8F69615626E98E3E00AF3EC5 /* Lab1_DancingPics */,
+				8F69615626E98E3E00AF3EC5 /* Lab3_MoreDancingPics */,
 			);
 		};
 /* End PBXProject section */
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8F69615226E98E3E00AF3EC5 /* Build configuration list for PBXProject "Lab1_DancingPics" */ = {
+		8F69615226E98E3E00AF3EC5 /* Build configuration list for PBXProject "Lab3_MoreDancingPics" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8F69616926E98E3F00AF3EC5 /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8F69616B26E98E3F00AF3EC5 /* Build configuration list for PBXNativeTarget "Lab1_DancingPics" */ = {
+		8F69616B26E98E3F00AF3EC5 /* Build configuration list for PBXNativeTarget "Lab3_MoreDancingPics" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8F69616C26E98E3F00AF3EC5 /* Debug */,
