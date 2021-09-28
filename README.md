@@ -1,3 +1,3 @@
-# Lab1_DancingPics
+# Lab3_MoreDancingPics
 
 Trevor Jedziniak
